@@ -1,0 +1,16 @@
+﻿  ComputeAlpha2.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(50): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(65): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(77): warning C4018: '<': signed/unsigned mismatch
+  ComputeAlpha2.vcxproj -> C:\Users\Rakshan\source\repos\ComputeAlpha2\x64\Debug\ComputeAlpha2.exe

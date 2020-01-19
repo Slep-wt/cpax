@@ -1,0 +1,11 @@
+﻿  ComputeAlpha2.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(3): warning C4603: '_USE_MATH_DEFINES': macro is not defined or definition is different after precompiled header use
+  c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(3): note: Add macro to precompiled header instead of defining here
+  c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(4): note: use of precompiled header
+c:\users\rakshan\source\repos\computealpha2\computealpha2\computealpha2.cpp(60): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  ComputeAlpha2.vcxproj -> C:\Users\Rakshan\source\repos\ComputeAlpha2\Debug\ComputeAlpha2.exe
